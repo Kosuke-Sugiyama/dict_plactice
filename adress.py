@@ -17,5 +17,6 @@ def main():
         print(f'{i["name"]} 〒{i["zipcode"]} {i["location"]}')
 
 
+# plactice
 if __name__ == '__main__':
     main()
